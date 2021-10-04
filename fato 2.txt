@@ -1,0 +1,7 @@
+#Entrega: Trabalhando em equipe com git.
+
+## Fato sobre <nome do dev>
+
+1. Stephano Rodrigues;
+2. Sou de Recife/PE, tenho dois filhos os dois tem autismo de grau leve. Gosto de jogos, anime, astronomia e filmes complexos. Admirador dos esportes americanos. Meu time do coração é o Green Bay Packers, da NFL (National Futbol Legue) e curto muito xadrez, além de navegar pelo desconhecido.;
+3. Em 1998 tive meu primeiro contato com o a informática, mais era mais para jogos como era novo. Em 2005 fiz meu primeiro curso na area em 2007 outro. Em 2014 comecei a trabalhar de design gráfico e sempre tive um apresso por códigos mais nunca tinha ido a fundo só visto de longe, também achava que tinha uma dificuldade imensa para está fazendo mais sempre investiguei e procurei saber das coisas. HOJE POSSO DIZER QUE SOU ALUNO DA KENZIA ACADEMY ONDE ME TORNAREI UM DEV!;
