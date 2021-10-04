@@ -1,0 +1,8 @@
+#Entrega: Trabalhando em equipe com git.
+
+## Fato sobre Alexandre Braz
+
+1. Carlos Alexandre Braz de Farias;
+2. Um cara timido, mas ao mesmo tempo, muito brincalhão e divertido, que ama fazer as pessoas rirem. Casado e com 3 filhos, morador da cidade de Nova Iguaçu - RJ;
+3. Comecei a me interessar por TI assistindo filme e séries que tinha personagens que eram envolvidos com a área e sempre achava muito interessante tudo que conseguiam fazer com TI;
+
